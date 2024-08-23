@@ -1,6 +1,6 @@
 # Programs for the Midi Solutions Events Processor 
 
-This repository contains programs for the [Midi Solutions Events Processor](https://midisolutions.com/prodevp.htm), which allows you to process incoming midi and output a modified midi stream. 
+This repository contains programs for the [Midi Solutions Events Processor](https://midisolutions.com/prodevp.htm). This device allows you to process incoming midi and output a modified midi stream. 
 This allows you to improve and/or expand the communication possibilities between a midi source and a midi receiver.
 
 ### Currently available programs:
